@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Post } from "@/types/post";
 
-const baseURL = "http://localhost:3000";
+const baseURL = "https://the-journal-murex.vercel.app/";
 
 export default async function RecentPosts() {
     const res = await fetch(`${baseURL}/api/posts/recent`, {
