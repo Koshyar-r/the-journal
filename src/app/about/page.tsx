@@ -43,7 +43,7 @@ export default function AboutPage() {
 
                             <div className="relative overflow-hidden rounded-[2rem] bg-secondary-background">
                                 <Image
-                                    src="/images/about.png"
+                                    src="/images/aboutt.png"
                                     alt="about-image"
                                     width={600}
                                     height={600}

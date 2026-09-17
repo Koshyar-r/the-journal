@@ -50,7 +50,7 @@ export default function Home() {
 
             <div className="relative overflow-hidden rounded-3xl bg-secondary-background">
               <Image
-                src="/images/about.png"
+                src="/images/aboutt.png"
                 alt="about-image"
                 width={600}
                 height={600}
