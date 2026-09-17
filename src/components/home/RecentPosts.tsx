@@ -26,7 +26,7 @@ export default async function RecentPosts() {
                     return (
                         <Link
                             key={post.id}
-                            href={`/posts/${post.slug}`}
+                            href={`/articles/${post.slug}`}
                             className="group rounded-xl overflow-hidden bg-black border border-white/10 transition-all duration-300 hover:-translate-y-1 hover:border-white/20"
                         >
                             {post.coverImageURL && (
