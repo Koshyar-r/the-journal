@@ -7,7 +7,7 @@ export default function Footer() {
         <footer className="border-t border-white/10 mt-24">
             <div className="max-w-7xl mx-auto px-6 py-10 flex flex-col sm:flex-row items-center justify-between gap-4">
                 <p className="text-sm text-gray-400">
-                    &copy; {new Date().getFullYear()} TechBlog. All rights reserved
+                    &copy; {new Date().getFullYear()} The Journal. All rights reserved
                 </p>
 
                 <div className="flex items-center gap-6 text-sm">
